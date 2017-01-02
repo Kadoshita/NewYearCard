@@ -6,6 +6,7 @@ body{
 	color: #fffafa;
 	font-weight: bold;
 	font-size: 32px;
+	line-height: 32px;
 }
 #count-text{
 	font-family: 'Bungee Hairline', cursive;

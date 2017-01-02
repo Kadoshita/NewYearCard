@@ -7,3 +7,10 @@ body{
 	font-weight: bold;
 	font-size: 96px;
 }
+#count-text{
+	font-family: 'Bungee Hairline', cursive;
+	color: #fffafa;
+	font-weight: bold;
+	font-size: 48px;
+	line-height: 48px;
+}

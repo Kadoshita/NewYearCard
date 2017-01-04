@@ -37,7 +37,7 @@ function displayCharcter (element,string,length) {
 
 setInterval(function () {
 	var date=new Date();
-	var proconDate=new Date(2017,9,7,0,0,0);
+	var proconDate=new Date(2018,0,1,0,0,0);
 	var day,hour,min,sec;
 
 	var milliSec=proconDate.getTime()-date.getTime();
